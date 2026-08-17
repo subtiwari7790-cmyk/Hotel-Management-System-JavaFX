@@ -5,7 +5,7 @@ Slight modifications in Hotel Management System project.
   
 ## Features  
    
-- Add Rooms
+- Add Rooms 
 - Book Rooms 
 - Customer Management
 - Search Bookings
